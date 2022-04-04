@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Woojin Cha
 - 👀 I’m interested in Human-Computer Interaction
 - 🌱 I’m currently working with React-Native and React
-- 💞️ I’m double-majoring Computer Science and Design at SNU
 <!-- - 📫 How to reach me ... -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xena123kiki)](https://github.com/anuraghazra/github-readme-stats)
