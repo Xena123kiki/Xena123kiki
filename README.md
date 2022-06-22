@@ -1,6 +1,6 @@
-👋 Woojin Cha
-👀 MLOps Product Manager @Makinarocks
-✨ Interested in Human-Computer-Interaction
+- 👋 Woojin Cha
+- 👀 MLOps Product Manager @Makinarocks
+- ✨ Interested in Human-Computer-Interaction
 <!-- - 📫 How to reach me ... -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xena123kiki)](https://github.com/anuraghazra/github-readme-stats)
